@@ -1,0 +1,25 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "30days web3 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcastellanosierras/30daysweb3app.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "Jose Castellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcastellanosierras/30daysweb3app/issues"
+  },
+  "homepage": "https://github.com/jcastellanosierras/30daysweb3app#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
